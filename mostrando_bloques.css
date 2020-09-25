@@ -1,0 +1,39 @@
+body
+{
+    background-color: wheat;
+}
+#cabecera
+{
+    text-align: center;
+}
+#cabecera img
+{
+    height: 70px;
+    display: inline-block;
+    background-color: white;
+}
+#cabecera h1
+{
+    display: inline-block;
+    font-size: 60px;
+}
+img
+{
+    width: 12%;
+    height: 160px;
+    padding: 2%;
+    margin: 0.5%;
+    border: 5px solid black;
+}
+#blockes
+{
+    text-align: center;
+}
+.blanco
+{
+    background-color: cadetblue;
+}
+.png
+{
+    background-color: coral;
+}
